@@ -1,0 +1,25 @@
+c:\users\j\documents\visual studio 2015\Projects\BuscaMinas\Control\bin\Debug\Control.dll
+c:\users\j\documents\visual studio 2015\Projects\BuscaMinas\Control\bin\Debug\Control.pdb
+c:\users\j\documents\visual studio 2015\Projects\BuscaMinas\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2015\Projects\BuscaMinas\Control\obj\Debug\Control.dll
+c:\users\j\documents\visual studio 2015\Projects\BuscaMinas\Control\obj\Debug\Control.pdb
+F:\BuscaMinas\Control\bin\Debug\Control.dll
+F:\BuscaMinas\Control\bin\Debug\Control.pdb
+F:\BuscaMinas\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+F:\BuscaMinas\Control\obj\Debug\Control.dll
+F:\BuscaMinas\Control\obj\Debug\Control.pdb
+C:\Users\J\Desktop\BuscaminasCopiaSeg\BuscaMinas\Control\bin\Debug\Control.dll
+C:\Users\J\Desktop\BuscaminasCopiaSeg\BuscaMinas\Control\bin\Debug\Control.pdb
+C:\Users\J\Desktop\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+C:\Users\J\Desktop\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.dll
+C:\Users\J\Desktop\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.pdb
+F:\Arq.Software\BuscaminasCopiaSeg\BuscaMinas\Control\bin\Debug\Control.dll
+F:\Arq.Software\BuscaminasCopiaSeg\BuscaMinas\Control\bin\Debug\Control.pdb
+F:\Arq.Software\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+F:\Arq.Software\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.dll
+F:\Arq.Software\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.pdb
+C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\BuscaminasCopiaSeg\BuscaMinas\Control\bin\Debug\Control.dll
+C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\BuscaminasCopiaSeg\BuscaMinas\Control\bin\Debug\Control.pdb
+C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.dll
+C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\BuscaminasCopiaSeg\BuscaMinas\Control\obj\Debug\Control.pdb
