@@ -35,8 +35,11 @@ namespace Vista
             btnjugar.Enabled = false;
                 if (tamano > 10 || minas>15)
                 {
-                    MessageBox.Show("Lo sentimos considere un tamaño o numero de minas diferente!!!", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Hand);
-                }
+                MessageBox.Show("Lo sentimos considere un tamaño o numero de minas diferente!!!", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+                txtminas.Enabled = true;
+                txttamano.Enabled = true;
+                btnjugar.Enabled = true;
+            }
                 else
                 {
 
@@ -45,8 +48,6 @@ namespace Vista
                 this.CrearTablero();
                 paneltablero.Visible = true;
                 
-                txtminas.Text = "";
-                txttamano.Text = "";
 
 
             }
@@ -104,6 +105,8 @@ namespace Vista
                 txttamano.Enabled = true;
                 btnjugar.Enabled = true;
 
+                txtminas.Text = "";
+                txttamano.Text = "";
                 paneltablero.Controls.Clear();
                 paneltablero.Visible = false;
                 
@@ -166,6 +169,9 @@ namespace Vista
                     txtminas.Enabled = true;
                     txttamano.Enabled = true;
                     btnjugar.Enabled = true;
+
+                    txtminas.Text = "";
+                    txttamano.Text = "";
                     paneltablero.Controls.Clear();
                     paneltablero.Visible = false;
                 }

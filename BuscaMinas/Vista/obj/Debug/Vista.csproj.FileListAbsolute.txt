@@ -56,3 +56,14 @@ C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\BuscaminasCopiaSeg\BuscaMinas\Vista\obj
 C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\Buscaminas\BuscaMinas\Vista\bin\Debug\Vista.exe.config
 C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.exe
 C:\Users\ECNA\Downloads\ARCHIVOS  VARIOS\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.pdb
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\bin\Debug\Vista.exe.config
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.exe
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.pdb
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\bin\Debug\Vista.exe
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\bin\Debug\Vista.pdb
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\bin\Debug\Control.dll
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\bin\Debug\Control.pdb
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.ventana.resources
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.Properties.Resources.resources
+D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
