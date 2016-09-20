@@ -22,38 +22,46 @@ namespace Vista
 
         int tamano = 0;
         int  minas = 0;
-        
-        
 
-       
+
+
+
         private void btnjugar_Click(object sender, EventArgs e)
         {
-            tamano = int.Parse(txttamano.Text);
-            minas = int.Parse(txtminas.Text);
-            txtminas.Enabled = false;
-            txttamano.Enabled = false;
-            btnjugar.Enabled = false;
-                if (tamano > 10 || minas>15)
-                {
-                MessageBox.Show("Lo sentimos considere un tamaño diferente menor o igual a 10!!!", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Hand);
-                txtminas.Enabled = true;
-                txttamano.Enabled = true;
-                btnjugar.Enabled = true;
+            if (txttamano.Text.Equals("") || txtminas.Text.Equals(""))
+            {
+                MessageBox.Show("Lo sentimos ingrese el tamaño y numero de minas con las que desea jugar!!", "Ingrese los datos", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            else
+            {
+
+                tamano = int.Parse(txttamano.Text);
+                minas = int.Parse(txtminas.Text);
+                txtminas.Enabled = false;
+                txttamano.Enabled = false;
+                btnjugar.Enabled = false;
+
+                if (tamano > 10 || minas > 15)
+                {
+                    MessageBox.Show("Lo sentimos considere un tamaño diferente menor o igual a 10!!!", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+                    txtminas.Enabled = true;
+                    txttamano.Enabled = true;
+                    btnjugar.Enabled = true;
+                }
                 else
                 {
 
-                TableroPrincipal = new PictureBox[tamano, tamano];
-                tab = new OperacionesTablero(minas, tamano);
-                this.CrearTablero();
-                paneltablero.Visible = true;
-                
+                    TableroPrincipal = new PictureBox[tamano, tamano];
+                    tab = new OperacionesTablero(minas, tamano);
+                    this.CrearTablero();
+                    paneltablero.Visible = true;
 
+
+
+                }
 
             }
-            
         }
-
         public void CrearTablero()
         {
           
