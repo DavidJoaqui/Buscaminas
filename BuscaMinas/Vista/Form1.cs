@@ -35,7 +35,7 @@ namespace Vista
             btnjugar.Enabled = false;
                 if (tamano > 10 || minas>15)
                 {
-                MessageBox.Show("Lo sentimos considere un tamaño o numero de minas diferente!!!", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+                MessageBox.Show("Lo sentimos considere un tamaño diferente menor o igual a 10!!!", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Hand);
                 txtminas.Enabled = true;
                 txttamano.Enabled = true;
                 btnjugar.Enabled = true;
