@@ -165,7 +165,7 @@ namespace Vista
                 if (totalceldas==celdas_inhabilitadas)
                 {
                     tab.terminaJuego(TableroPrincipal,"GANASTE, Descubriste la ubicacion de las minas !!!");
-                    MessageBox.Show("esta es la Ubicacion de las minas..!!","Notificacion",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
+                    MessageBox.Show("esta es la Ubicacion de las minas en el tablero \n Descubriendo minas...!!","Notificacion",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
                     txtminas.Enabled = true;
                     txttamano.Enabled = true;
                     btnjugar.Enabled = true;
