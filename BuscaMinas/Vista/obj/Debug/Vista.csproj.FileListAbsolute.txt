@@ -67,3 +67,14 @@ D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.csproj
 D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.ventana.resources
 D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.Properties.Resources.resources
 D:\V semestre\Arq.de Software\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\bin\Debug\Vista.exe.config
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.exe
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.pdb
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\bin\Debug\Vista.exe
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\bin\Debug\Vista.pdb
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\bin\Debug\Control.dll
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\bin\Debug\Control.pdb
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.ventana.resources
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.Properties.Resources.resources
+D:\V semestre\proyectos\Buscaminas\BuscaMinas\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache

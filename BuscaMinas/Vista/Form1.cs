@@ -15,6 +15,9 @@ namespace Vista
         public ventana()
         {
             InitializeComponent();
+            DateTime.Now.ToString("D");
+           
+            lblhora_fecha.Text ="dia:"+ DateTime.Now.ToString("D")+" Hora:"+DateTime.Now.ToString("hh:mm:ss tt");
         }
         OperacionesTablero tab;
         PictureBox[,] TableroPrincipal;

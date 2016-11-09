@@ -36,6 +36,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.paneltablero = new System.Windows.Forms.Panel();
+            this.lblhora_fecha = new System.Windows.Forms.Label();
             this.panel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,7 +59,7 @@
             this.panel.Controls.Add(this.txttamano);
             this.panel.Controls.Add(this.label2);
             this.panel.Controls.Add(this.label1);
-            this.panel.Location = new System.Drawing.Point(6, 12);
+            this.panel.Location = new System.Drawing.Point(6, 28);
             this.panel.Name = "panel";
             this.panel.Size = new System.Drawing.Size(238, 70);
             this.panel.TabIndex = 1;
@@ -99,18 +100,27 @@
             // 
             this.paneltablero.AutoSize = true;
             this.paneltablero.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.paneltablero.Location = new System.Drawing.Point(6, 88);
+            this.paneltablero.Location = new System.Drawing.Point(6, 104);
             this.paneltablero.Name = "paneltablero";
             this.paneltablero.Size = new System.Drawing.Size(50, 10);
             this.paneltablero.TabIndex = 2;
             this.paneltablero.Visible = false;
+            // 
+            // lblhora_fecha
+            // 
+            this.lblhora_fecha.AutoSize = true;
+            this.lblhora_fecha.Location = new System.Drawing.Point(8, 9);
+            this.lblhora_fecha.Name = "lblhora_fecha";
+            this.lblhora_fecha.Size = new System.Drawing.Size(0, 13);
+            this.lblhora_fecha.TabIndex = 3;
             // 
             // ventana
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(246, 86);
+            this.ClientSize = new System.Drawing.Size(250, 126);
+            this.Controls.Add(this.lblhora_fecha);
             this.Controls.Add(this.paneltablero);
             this.Controls.Add(this.panel);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -133,6 +143,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel paneltablero;
+        private System.Windows.Forms.Label lblhora_fecha;
     }
 }
 
