@@ -10,7 +10,7 @@ namespace Control.ClasesControl
 {
    public class OperacionesTablero
     {
-        
+        //modificado por:David Joaqui 2017
         int tamano, numminas;
        public OperacionesTablero() { }
         public OperacionesTablero(int minas,int tamano)
